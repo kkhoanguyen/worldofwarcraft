@@ -1,0 +1,27 @@
+------------------------------------------------------------------------
+r56 | oscarucb | 2016-07-31 06:01:36 +0000 (Sun, 31 Jul 2016) | 1 line
+Changed paths:
+   A /tags/2.5.0 (from /trunk:55)
+
+Tagging as 2.5.0
+------------------------------------------------------------------------
+r55 | oscarucb | 2016-07-31 05:54:43 +0000 (Sun, 31 Jul 2016) | 8 lines
+Changed paths:
+   M /trunk/Broker_HealBot.lua
+   M /trunk/Broker_HealBot.toc
+
+add auto skin switching
+
+toggle with /bhb auto
+auto-selects a skin on group change when you have skins named 
+"party", "solo" and "raid<num>" (the last chooses the skin closest to the current raid size)
+
+toc bump
+
+------------------------------------------------------------------------
+r54 | oscarucb | 2015-06-24 21:31:21 +0000 (Wed, 24 Jun 2015) | 1 line
+Changed paths:
+   M /trunk/Broker_HealBot.toc
+
+toc bump
+------------------------------------------------------------------------
